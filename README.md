@@ -2,6 +2,15 @@
 
 ## Author: Luis Rosales
 
+## Credit
+
+Demo Code
+
+## Collaborators
+
+* Tyler Main
+* Brandon Pitts
+
 ## Deployed sites
 
 * [Using GUI](http://cloudserver401d48-env.eba-k4zix5e8.us-east-2.elasticbeanstalk.com/)
