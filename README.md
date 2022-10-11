@@ -2,6 +2,11 @@
 
 ## Author: Luis Rosales
 
+## Deployed sites
+
+* [Using GUI](http://cloudserver401d48-env.eba-k4zix5e8.us-east-2.elasticbeanstalk.com/)
+* [Using CLI](http://401d48-cloud-server-dev.us-east-2.elasticbeanstalk.com/)
+
 ## Problem Domain
 
 ## Phase 1
